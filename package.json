@@ -1,6 +1,6 @@
-{
-	"author": "cesar gonzalez",
+{git 
 	"name": "fcc-learn-npm-package-json",
+	"author": "cesar gonzalez",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
